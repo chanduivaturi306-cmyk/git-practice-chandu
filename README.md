@@ -1,2 +1,2 @@
 # git-practice-chandu
-my repository name
+this repository consistes of python related project
